@@ -3,8 +3,8 @@
 Developed with Unreal Engine 4.25
 
 You will need MS Visual Studio 2017 (it can be the free community version) with the following packages:
-Desktop Development with C++
-Game Development with C++
+Markup : * Desktop Development with C++
+        Game Development with C++
 .NET Desktop Development
 
 
