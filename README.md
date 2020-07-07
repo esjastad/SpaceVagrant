@@ -14,8 +14,13 @@ To compile this project for the UE4 editor, you will need MS Visual Studio 2017 
 
 
 
+## License
 
+This work is released under the "MIT license".
+Please see the file `LICENSE` in this distribution for
+license terms.
 
 
 # Sources
 https://answers.unrealengine.com/questions/120392/how-can-i-load-text-from-file-with-blueprint.html
+
