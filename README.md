@@ -25,3 +25,5 @@ license terms.
 * https://docs.unrealengine.com/en-US/index.html
 * https://answers.unrealengine.com/questions/120392/how-can-i-load-text-from-file-with-blueprint.html
 * https://stackoverflow.com/questions/1761626/weighted-random-numbers
+* https://freesound.org/people/malatestinic.com/sounds/481584/
+* https://www.mixamo.com/
