@@ -1,0 +1,8 @@
+behavior tree basics
+- https://www.youtube.com/watch?v=zNJEvAGiw7w&list=PL4G2bSPE_8ukuajpXPlAE47Yez7EAyKMu&index=2&t=4s
+
+Chasing player
+- https://www.youtube.com/watch?v=VPHKMawXlkA&list=PL4G2bSPE_8ukuajpXPlAE47Yez7EAyKMu&index=3
+
+Attacking player
+- https://www.youtube.com/watch?v=7JpHINDSmU4
