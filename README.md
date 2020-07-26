@@ -11,7 +11,7 @@ To compile this project for the UE4 editor, you will need MS Visual Studio 2017 
 * Game Development with C++
 * .NET Desktop Development
 
-Once you have the correct environment for MSVS 2017 and UE4.25 annotated above, you can open the spacevagrant.uproject, a prompt about missing modules will occur and select yes to rebuild them now.  After the rebuild finishes the editor will open allowing you access to the blueprints and code throught the UE4 editor.
+Once you have the correct environment for MSVS 2017 and UE4.25 annotated above, you can open the spacevagrant.uproject, a prompt about missing modules will occur and select yes to rebuild them now.  After the rebuild finishes the editor will open allowing you access to the blueprints and code through the UE4 editor.
 
 ## Demo
 A 3 week demo for windows 64 bit systems can be acquired here
