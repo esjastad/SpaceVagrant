@@ -2,7 +2,7 @@
 
 Developed with Unreal Engine 4.25
   
-The first thing you will need to view this open source project is unreal engine v4.25 which can be acquired here (this is a launcher for unreal where you can then select and install the required version):  
+The first thing you will need to view this open source project is unreal engine v 4.25 which can be acquired here (this is a launcher for unreal where you can then select and install the required version):  
 https://www.unrealengine.com/en-US/get-now/agnostic
   
 To compile this project for the UE4 editor, you will need MS Visual Studio 2017 (it can be the free community version) with the following packages:
