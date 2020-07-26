@@ -1,6 +1,7 @@
 # SpaceVagrant
 
 Developed with Unreal Engine 4.25
+  
 The first thing you will need to view this open source project is unreal engine v4.25 which can be acquired here (this is a launcher for unreal where you can then select and install the required version):  
 https://www.unrealengine.com/en-US/get-now/agnostic
   
