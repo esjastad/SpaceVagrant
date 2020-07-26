@@ -15,13 +15,10 @@ A 3 week demo for windows 64 bit systems can be acquired here
   
 Simply extract the contents and run the executable.
   
-Movement keys - WASD
-  
-Reset - Q
-  
-AIM - Right mouse button
-  
-Fire - Left mouse button
+* Movement keys - WASD
+* Reset - Q
+* AIM - Right mouse button
+* Fire - Left mouse button
 
 
 
