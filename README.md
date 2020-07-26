@@ -12,10 +12,15 @@ Once you have the correct environment for MSVS 2017 annotated above, you can ope
 ## Demo
 A 3 week demo for windows 64 bit systems can be acquired here
 * https://gofile.io/d/BlAaQ0  
+  
 Simply extract the contents and run the executable.
+  
 Movement keys - WASD
+  
 Reset - Q
+  
 AIM - Right mouse button
+  
 Fire - Left mouse button
 
 
