@@ -24,6 +24,7 @@ Simply extract the contents of the zip file and run the executable.
 * Jump - Spacebar
 * Aim - Right mouse button
 * Fire - Left mouse button
+* Quit - Alt-F4
 
 
 
