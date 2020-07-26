@@ -17,6 +17,7 @@ Simply extract the contents of the zip file and run the executable.
   
 * Movement keys - WASD
 * Reset - Q
+* Jump - Spacebar
 * AIM - Right mouse button
 * Fire - Left mouse button
 
