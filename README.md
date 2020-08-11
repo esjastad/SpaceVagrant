@@ -1,5 +1,16 @@
 # SpaceVagrant
 
+## Contributers
+Erik Jastad
+Josh Ray
+Philip Chen
+Will Becker
+Alex Bailey
+Jacob
+
+## Description
+An open source starting point for us to learn the starting points of game dev. It's a rogue-like, third person shooter where the player explores preocedurally generated maps, killing enemies and picking up resources to upgrade their abilities.
+
 Developed with Unreal Engine 4.25
   
 The first thing you will need to view this open source project is unreal engine v 4.25 which can be acquired here:  
