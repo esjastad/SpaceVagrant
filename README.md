@@ -56,3 +56,4 @@ license terms.
 * https://freesound.org/people/malatestinic.com/sounds/481584/
 * https://www.mixamo.com/
 * https://fonts.google.com/specimen/Roboto#about
+* enemy source: SpaceVagrant/Content/Character/Enemies/sources.txt
