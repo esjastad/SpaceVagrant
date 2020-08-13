@@ -1,6 +1,6 @@
 # SpaceVagrant
 
-## Contributers
+## Contributors
 Erik Jastad  
 Josh Ray   
 Philip Chen   
@@ -25,7 +25,7 @@ To compile this project for the UE4 editor, you will need MS Visual Studio 2017 
 Once you have the correct environment for MSVS 2017 and UE4.25 annotated above, you can open the spacevagrant.uproject, a prompt about missing modules will occur and select yes to rebuild them now.  After the rebuild finishes the editor will open allowing you access to the blueprints and code through the UE4 editor.
 
 ## Demo
-A 3 week demo for windows 64 bit systems can be acquired here!  If you wish to view the results of the work without having to install UE4.25 or MSVS 2017 as listed above, use the following link to download the demo zipfile.  
+A current working demo for windows 64 bit systems can be acquired here!  If you wish to view the results of the work without having to install UE4.25 or MSVS 2017 as listed above, use the following link to download the demo zipfile.  
 * https://gofile.io/d/BlAaQ0  
   
 Simply extract the contents of the zip file and run the executable.
@@ -51,12 +51,14 @@ license terms.
 
 
 # Sources
-* https://docs.unrealengine.com/en-US/index.html
-* https://answers.unrealengine.com/questions/120392/how-can-i-load-text-from-file-with-blueprint.html
-* https://stackoverflow.com/questions/1761626/weighted-random-numbers
-* https://freesound.org/people/malatestinic.com/sounds/481584/
-* https://freesound.org/people/InspectorJ/sounds/352513/
-* https://freesound.org/people/waveplay./sounds/399933/
-* https://www.mixamo.com/
+* https://docs.unrealengine.com/en-US/index.html  - This is generic documentation used for Uneal engine
+* https://answers.unrealengine.com/questions/120392/how-can-i-load-text-from-file-with-blueprint.html   - This code is implemented but not used, under Source/SpaceVagrant
+* https://stackoverflow.com/questions/1761626/weighted-random-numbers   -  This is implemented in the function GetPieceIndex in the BP_WorldGenerationManager
+* https://freesound.org/people/malatestinic.com/sounds/481584/  - This sound is used for the gunshot
+* https://freesound.org/people/InspectorJ/sounds/352513/  - This sound is used for the barrels breaking
+* https://freesound.org/people/waveplay./sounds/399933/ - This sound is used for resource pickup
+* https://www.mixamo.com/   - All animations for the characters were taken from mixamo
 * https://www.youtube.com/watch?v=AivAkA-IliU
 * enemy source: SpaceVagrant/Content/Character/Enemies/sources.txt
+* All models and textures were created by the contributors, 
+* Erik Jastad
