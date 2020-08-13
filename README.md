@@ -58,5 +58,4 @@ license terms.
 * https://freesound.org/people/InspectorJ/sounds/352513/
 * https://freesound.org/people/waveplay./sounds/399933/
 * https://www.mixamo.com/
-* https://fonts.google.com/specimen/Roboto#about
 * enemy source: SpaceVagrant/Content/Character/Enemies/sources.txt
