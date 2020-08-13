@@ -11,6 +11,15 @@ Jacob Ferretti
 ## Description
 An open source starting point for us to learn the starting points of game dev. It's a rogue-like, third person shooter where the player explores preocedurally generated maps, killing enemies and picking up resources to upgrade their abilities.
 
+## License
+
+This work is released under the "MIT license".
+Please see the file `LICENSE` in this distribution for
+license terms.
+
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
+## How to use the source code
 Developed with Unreal Engine 4.25
   
 The first thing you will need to view this open source project is unreal engine v 4.25 which can be acquired here:  
@@ -43,12 +52,6 @@ Here is a video link of Erik Jastad playing and talking about the game demo.
 https://www.youtube.com/watch?v=cVWJCiD8Zzw&feature=youtu.be  
 Here is a video link of Erik Jastad showing how to look around the editor and our UE4 project.  
 https://www.youtube.com/watch?v=JY374OT9b3E&feature=youtu.be  
-
-## License
-
-This work is released under the "MIT license".
-Please see the file `LICENSE` in this distribution for
-license terms.
 
 
 # Sources
