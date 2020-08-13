@@ -39,9 +39,9 @@ Simply extract the contents of the zip file and run the executable within.
 * Sprint - Left Shift  
 
 ## Videos
-Here is a video link of me playing and talking about the game demo.  
+Here is a video link of Erik Jastad playing and talking about the game demo.  
 https://www.youtube.com/watch?v=cVWJCiD8Zzw&feature=youtu.be  
-Here is a video link of me showing how to look around the editor and our UE4 project.  
+Here is a video link of Erik Jastad showing how to look around the editor and our UE4 project.  
 https://www.youtube.com/watch?v=JY374OT9b3E&feature=youtu.be  
 
 ## License
