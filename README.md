@@ -17,7 +17,6 @@ This work is released under the "MIT license".
 Please see the file [License](https://github.com/esjastad/SpaceVagrant/blob/master/LICENSE) in this distribution for
 license terms.
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 ## How to use the source code
 Developed with Unreal Engine 4.25
