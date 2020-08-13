@@ -36,12 +36,13 @@ Simply extract the contents of the zip file and run the executable within.
 * Aim - Right mouse button
 * Fire - Left mouse button
 * Quit - Escape key
-* Sprint - Left Shift
+* Sprint - Left Shift  
 
-
-
-
-
+## Videos
+Here is a video link of me playing and talking about the game demo.  
+https://www.youtube.com/watch?v=cVWJCiD8Zzw&feature=youtu.be  
+Here is a video link of me showing how to look around the editor and our UE4 project.  
+https://www.youtube.com/watch?v=JY374OT9b3E&feature=youtu.be  
 
 ## License
 
