@@ -14,7 +14,7 @@ An open source starting point for us to learn the starting points of game dev. I
 ## License
 
 This work is released under the "MIT license".
-Please see the file `LICENSE` in this distribution for
+Please see the file `[a link] LICENSE` in this distribution for
 license terms.
 
 [a link](https://github.com/user/repo/blob/branch/other_file.md)
