@@ -53,7 +53,8 @@ Here is a video link of Erik Jastad playing and talking about the game demo.
 https://www.youtube.com/watch?v=cVWJCiD8Zzw&feature=youtu.be  
 Here is a part 1 video link of Erik Jastad showing how to look around the editor and our UE4 project.  
 https://www.youtube.com/watch?v=iQq7qs5rDOw&feature=youtu.be  
-Here is a part 2 video link of Erik Jastad showing how to look around the editor and our UE4 project.  
+Here is a part 2 video link of Erik Jastad showing how to look around the editor and our UE4 project.
+https://www.youtube.com/watch?v=oXxn2cyjQ9Y&feature=youtu.be
 
 
 # Sources
