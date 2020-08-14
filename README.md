@@ -54,7 +54,9 @@ https://www.youtube.com/watch?v=cVWJCiD8Zzw&feature=youtu.be
 Here is the part 1,2, and 3 video links of Erik Jastad showing how to look around the editor and our UE4 project.  
 https://www.youtube.com/watch?v=N6HIIw4e168&feature=youtu.be - part1  
 https://www.youtube.com/watch?v=K375o11XnNQ&feature=youtu.be - part2  
-https://www.youtube.com/watch?v=wnf5tjAEb-M&feature=youtu.be - part3
+https://www.youtube.com/watch?v=wnf5tjAEb-M&feature=youtu.be - part3  
+  
+These videos were recorded as one long video that needed to be broken up to fit youtubes video length limit of 15 minutes.
 
 # Sources
 * https://docs.unrealengine.com/en-US/index.html  - This is generic documentation used for Uneal engine
