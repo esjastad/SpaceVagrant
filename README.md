@@ -9,7 +9,7 @@ Alex Bailey
 Jacob Ferretti  
 
 ## Description
-An open source starting point for us to learn the starting points of game dev. It's a rogue-like, third person shooter where the player explores preocedurally generated maps, killing enemies and picking up resources to upgrade their abilities.
+An open source starting point for us to learn the starting points of game dev. It's a rogue-like, third person shooter where the player explores procedurally generated maps, killing enemies and picking up resources to upgrade their abilities.
 
 This is an early project that plans to incorporate level goals, persistent player upgrades such as stats, abilities and equipment; Enemy models, AI and behaviours and a minimap are on the roadmap to be created as well.
 
